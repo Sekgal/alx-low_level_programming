@@ -26,3 +26,4 @@ int main(void)
 printf("%lu\n", sum);
 return (0);
 }
+In function ‘main’:
